@@ -143,10 +143,9 @@ header {
   width: 30px;
   height: 40px;
   line-height: 40px;
-  font-size: 19px;
-  margin-right: 7px;
+  font-size: 22px;
+  margin-right: 10px;
 }
-
 
 /*====================== 04. About Me ======================*/
 .col-left, .col-right {
